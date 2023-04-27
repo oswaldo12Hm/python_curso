@@ -1,0 +1,61 @@
+print(type("2"))
+print(type(2))
+print(type(2.0))
+
+#TIPO DE DATO
+print(type("2"))
+print(type(2))
+print(type(2.0))
+print(type(False))
+print(0x133)
+print(0.000000000000000000000123)
+print(1.23e-22)
+##print(type(z))
+##print(type(x[]))
+##print(type=y())
+
+print(3+4)
+print(3-9)
+print(5*8)
+print(17/2)
+print(17//2)
+print(17%2)
+print(2**8)
+
+print("Operaciones con enteros y flotantes")
+print("SUMA")
+print(3+6)
+print(3.8+3.5)
+print(3+8.5)
+print(3.98+99)
+print("MULTIPLICACION")
+print(3*6)
+print(3.8*3.5)
+print(3*8.5)
+print(3.98*99)
+print("DIVISION")
+print(3/6)
+print(3.8/3.5)
+print(3/8.5)
+print(3.98/99)
+print("Hola "+" que tal "+" amigos")
+print("Hola "*5)
+print("*****OPERADORES LOGICOS******")
+print(5>50)
+print(5<50)
+print(5==5)
+print(5!=50)
+print(8<=10)
+print(5>=10)
+print(True==False)
+print("hola"=="Hola")
+print("Hola"=="Hola")
+_usuario="Pedro"
+contraseña="c1256qwd"
+print(_usuario)
+print(contraseña)
+
+
+
+
+
